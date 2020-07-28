@@ -1,0 +1,19 @@
+{
+  "name": "@marcsaleiko/navigatie",
+  "version": "0.0.1",
+  "description": "Collection of scripts for smply.gd estate frontend ecosystem.",
+  "browser": "src/Navigatie.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcsaleiko/navigatie.git"
+  },
+  "author": "Marc Saleiko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcsaleiko/navigatie/issues"
+  },
+  "homepage": "https://github.com/marcsaleiko/navigatie#readme"
+}
