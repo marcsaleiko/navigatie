@@ -90,7 +90,6 @@ window.Navigatie = ( function(){
       if( parent !== null ) {
         var subnavOpen = hasClass( parent, settings.openSubnavParentClass );
         var subnav = parent.querySelectorAll(settings.subnavSelector);
-        console.log( parent, subnav );
         if( subnavOpen ) {
           parent.classList.remove( settings.openSubnavParentClass );
           removeClass( subnav, settings.openSubnavClass );
