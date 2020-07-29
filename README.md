@@ -13,7 +13,7 @@ Include file in your script file and run `Navigatie.init();`. You may use the op
 
 You may provide additional options and default overrides via an object passed to the `init` method. Here is a list of all available options and their default values:
 
-```
+```javascript
 Navigatie.init({
     // Selector that triggers the main navigation. May be off canvas or plain
     // navigation burger for mobile. Ignore that if you only have a subnav.
