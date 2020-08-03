@@ -56,4 +56,4 @@ Navigatie.init({
 });
 ```
 
-You may also use `Navigatie.active();` to receive whether the module found at least a trigger or subnavTrigger. It indicates whether the app is somehow actice and may respond to interaction.
+You may also use `Navigatie.active();` to receive whether the module found at least a trigger or subnavTrigger. It indicates whether the app is somehow active and may respond to interaction.
