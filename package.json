@@ -1,11 +1,18 @@
 {
   "name": "@marcsaleiko/navigatie",
-  "version": "0.1.1",
-  "description": "Collection of scripts for smply.gd estate frontend ecosystem.",
+  "version": "0.1.2",
+  "description": "Helper tool for everyday navigation building.",
   "browser": "src/Navigatie.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "navigation",
+    "frontend",
+    "browser",
+    "vanilla",
+    "js"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/marcsaleiko/navigatie.git"

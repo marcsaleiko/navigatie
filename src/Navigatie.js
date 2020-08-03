@@ -1,3 +1,8 @@
+/*!
+ * Navigatie v0.1.2
+ * Track viewport changes and react to them via callbacks
+ * MIT License
+ */
 window.Navigatie = ( function(){
     var app = {};
     var _init = false;
