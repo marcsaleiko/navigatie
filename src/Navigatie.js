@@ -159,7 +159,6 @@ window.Navigatie = ( function(){
     }
   
     var addClass = function( elements, className ) {
-      console.log( elements, className );
       for( var i = 0, len = elements.length; i < len; i++) {
         elements[i].classList.add( className );
       }
